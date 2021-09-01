@@ -12,7 +12,7 @@ import TimeAgo from 'react-native-auto-timeago';
 
 // Timestamp can be any valid data type accepted in a Moment.js constructor
 // Currently accepts string, number, array, or a Date instance
-let timestamp = "2015-06-21T06:24:44.124Z";
+let timestamp = "1630470872";
 
 class MyComponent extends Component {
 
