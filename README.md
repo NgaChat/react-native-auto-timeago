@@ -11,14 +11,14 @@ import TimeAgo from 'react-native-timeago';
 
 
 
+
 class MyComponent extends Component {
 
   ...
 
   render() {
     return (
-      // This component would update every 20 seconds
-      <TimeAgo time={timestamp} interval={1000} />
+      <TimeAgo time={timestamp} />
     )
   }
 
