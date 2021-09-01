@@ -1,0 +1,40 @@
+
+{
+  "name": "react-native-auto-timeago",
+  "version": "1.0.9",
+  "description": "Auto-updating timeago component for React Native",
+  "main": "TimeAgo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgaChat/rreact-native-auto-timeago.git"
+  },
+  "keywords": [
+    "react-native",
+    "timeago",
+    "react-component",
+    "react-native-component"
+  ],
+  "author": "Zin Myo Oo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NgaChat/react-native-auto-timeago/issues"
+  },
+  "homepage": "https://github.com/NgaChat/react-native-auto-timeago#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=0.46",
+    "moment": "^2.19.1"
+  },
+  "devDependencies": {
+    "react": "^16.4.2",
+    "react-native": "^0.56.0"
+  }
+}
+
+
+
+  
